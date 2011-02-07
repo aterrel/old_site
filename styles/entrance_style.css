@@ -29,7 +29,7 @@ body {background:#000;
 
 
 .bgtext
-		{font-size: 100px;
+		{font-size: 72px;
 		 position:absolute;
 		 top:-150px;
 		 left:-150px;
@@ -63,11 +63,11 @@ div#text2 {font-size:50px;
 
 div#text3 {font-size:35px;
 		top:160px;
-		left:300px;}
+		left:256px;}
 
 div#text4 {font-size:40px;
-		top:200px;
-		left:256px;}
+		top:100px;
+		left:10px;}
 
 div#text5 {font-size:39px;
 		top:300px;
@@ -86,8 +86,9 @@ div#text8 {font-size:18px;
 		left:20px;}
 
 div#text9 {font-size:28px;
-		top:150px;
-		left:10px;}
+		top:256px;
+		left:128px;}
+
 div#box10 {font-size:28px;
 		top:-75px;
 		left:500px;
@@ -161,7 +162,7 @@ div#content {position:absolute;
 			 top:-50px;
 			 left:-70px;
 			 width:635px;
-			 height: 400px;
+			 height: 512px;
 			 overflow: auto;
 			 font-family: verdana, helvetica, sans serif;
 			 font-size: 13px;
