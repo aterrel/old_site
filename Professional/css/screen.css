@@ -51,9 +51,9 @@ p {
   margin: 5px 0 5px 0;
 }
 
-p:first-letter {
-  font-size: 1.2em;
-}
+/* p:first-letter { */
+/*   font-size: 1.2em; */
+/* } */
 
 #news p {
   padding: 8px;
